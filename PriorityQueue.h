@@ -6,8 +6,7 @@
  * Class Invariant: FIFO or LILO order using priority value
  *                  Sorted by time and type
  *
- * Author: Vansh Thakur Rana (vtr)
- *         Agrim Joshi (aja121)
+ * Author: 
  * Last Modified: Apr. 2024
  */
 
